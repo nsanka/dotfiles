@@ -34,5 +34,7 @@
    "terminal.integrated.defaultProfile.linux": "zsh",
    "git.confirmSync": false,
    "github.copilot.editor.enableAutoCompletions": true,
-   "interactiveWindow.executeWithShiftEnter": true
+   "interactiveWindow.executeWithShiftEnter": true,
+   "python.analysis.extraPaths": [],
+   "security.workspace.trust.untrustedFiles": "open"
 }

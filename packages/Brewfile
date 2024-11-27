@@ -17,6 +17,7 @@ brew 'wget'
 #brew 'azure-cli'
 brew 'awscli'
 brew 'hashicorp/tap/terraform'
+brew pipx
 #brew 'maven'
 #brew 'liquibase'
 #brew 'hadoop'

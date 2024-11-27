@@ -120,3 +120,5 @@
 	email = nsanka@me.com
 [pull]
 	rebase = true
+[rebase]
+	autoStash = true
