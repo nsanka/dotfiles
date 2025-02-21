@@ -35,6 +35,6 @@
    "git.confirmSync": false,
    "github.copilot.editor.enableAutoCompletions": true,
    "interactiveWindow.executeWithShiftEnter": true,
-   "python.analysis.extraPaths": [],
+   "python.createEnvironment.trigger": "off",
    "security.workspace.trust.untrustedFiles": "open"
 }
